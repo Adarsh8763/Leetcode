@@ -5,15 +5,15 @@ class Solution {
 
         if(sLen != tLen) return false;
 
-        int [] arr = new int[60];
+        int [] arr = new int[26];
         for (int i=0; i<sLen; i++){
             char ch = s.charAt(i);
-            arr[ch-65]++;
+            arr[ch-97]++;
         }
 
         for(int i=0; i<tLen; i++){
             char ch = t.charAt(i);
-            arr[ch-65]--;
+            arr[ch-97]--;
         }
 
         for (int i=0; i<arr.length; i++){
