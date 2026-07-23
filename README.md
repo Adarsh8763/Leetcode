@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adarsh8763/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Adarsh8763/Leetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Adarsh8763/Leetcode/tree/master/0443-string-compression) |
 ## Union-Find
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adarsh8763/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/Adarsh8763/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adarsh8763/Leetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Adarsh8763/Leetcode/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
