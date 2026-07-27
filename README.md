@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adarsh8763/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh8763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh8763/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adarsh8763/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Adarsh8763/Leetcode/tree/master/0344-reverse-string) |
@@ -113,10 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Adarsh8763/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh8763/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
