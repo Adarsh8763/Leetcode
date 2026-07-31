@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adarsh8763/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh8763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh8763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adarsh8763/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Adarsh8763/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Adarsh8763/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Union-Find
 |  |
@@ -131,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Adarsh8763/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh8763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Adarsh8763/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh8763/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Adarsh8763/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh8763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Recursion
 |  |
