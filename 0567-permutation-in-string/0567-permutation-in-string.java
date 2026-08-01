@@ -1,32 +1,37 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
+        if(s1.length() > s2.length()) return false;
+
         int left = 0;
-        int right = s1.length()-1;
-        int[] s1Freq = new int[26];
-        int[] s2Freq = new int[26];
-        s1Freq = resetFreq(s1, s1Freq);
+        int[] freq1 = new int[26];
+        int[] freq2 = new int[26];
 
-        for(; right<s2.length(); right++){
-            boolean flag = false;
-            s2Freq = resetFreq(s2.substring(left,right+1), s2Freq);
+        for(char ch : s1.toCharArray()){
+            freq1[ch - 'a']++;
+        }
 
-            for(int i=0; i<26; i++){
-                if(s1Freq[i] != s2Freq[i]){
-                    flag = true;
+        for(int right=0; right<s2.length(); right++){
+            char ch = s2.charAt(right);
+            freq2[ch - 'a']++;
+
+            if(s1.length() < right-left+1){
+                freq2[s2.charAt(left) - 'a']--;
+                left++;
+            }
+
+            if(s1.length() == right-left+1){
+                boolean isMatch = false;
+                for(int i=0; i<26; i++){
+                    if(freq1[i] != freq2[i]){
+                        isMatch = true;
+                        break;
+                    }
+                }
+                if(!isMatch){
+                    return true;
                 }
             }
-            if(flag == false){
-                return true;
-            }
-            left++;
         }
         return false;
-    }
-    private int[] resetFreq(String s, int[] freq){
-        Arrays.fill(freq, 0);
-        for(char ch : s.toCharArray()){
-            freq[ch - 'a']++;
-        }
-        return freq;
     }
 }
