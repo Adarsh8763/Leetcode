@@ -20,14 +20,14 @@ class Solution {
             }
 
             if(s1.length() == right-left+1){
-                boolean isMatch = false;
+                boolean isMatch = true;
                 for(int i=0; i<26; i++){
                     if(freq1[i] != freq2[i]){
-                        isMatch = true;
+                        isMatch = false;
                         break;
                     }
                 }
-                if(!isMatch){
+                if(isMatch){
                     return true;
                 }
             }
