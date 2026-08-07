@@ -1,13 +1,11 @@
 class NumArray {
     int[] nums;
+    int[] pSum;
 
     public NumArray(int[] nums) {
         this.nums = nums;
-    }
-    
-    public int sumRange(int left, int right) {
         int n = nums.length;
-        int[] pSum = new int[n];
+        pSum = new int[n];
 
         int sum = nums[0];
         pSum[0] = nums[0];
@@ -15,6 +13,9 @@ class NumArray {
             sum += nums[i];
             pSum[i] += sum;
         }
+    }
+    
+    public int sumRange(int left, int right) {
         if(left == 0){
             return pSum[right];
         }
