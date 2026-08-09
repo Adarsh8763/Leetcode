@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Adarsh8763/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Adarsh8763/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh8763/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Adarsh8763/Leetcode/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh8763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh8763/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -224,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh8763/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
