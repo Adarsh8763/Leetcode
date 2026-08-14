@@ -23,8 +23,8 @@ class Solution {
             }
             else{
                 if(map.containsKey(val)){
-                    int nextValIdx = j-map.get(val);
-                    maxLen = Math.max(maxLen, nextValIdx);
+                    int range = j-map.get(val);
+                    maxLen = Math.max(maxLen, range);
                 }
             }
             if(!map.containsKey(val)){
