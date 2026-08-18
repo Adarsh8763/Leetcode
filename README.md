@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh8763/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh8763/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Adarsh8763/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Adarsh8763/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adarsh8763/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0054-spiral-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adarsh8763/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarsh8763/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Adarsh8763/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Adarsh8763/Leetcode/tree/master/0231-power-of-two) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adarsh8763/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
