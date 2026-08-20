@@ -2,17 +2,24 @@ class Solution {
     public int[] sortArrayByParityII(int[] nums) {
         int n = nums.length;
 
-        int left = 0;
-        for (int right = 0; right < n; right++) {
-            while(left <= right && ((nums[left] % 2 == 0 && left % 2 == 0) || (nums[left] % 2 != 0 && left % 2 != 0))) {
-                left++;
+        int even = 0;
+        int odd = 1;
+
+        while(even < n && odd < n){
+            while(even < n && nums[even] % 2 == 0){
+                even += 2;
             }
-            if((nums[right] % 2 != 0 && right % 2 == 0) || (nums[right] % 2 == 0 && right % 2 != 0)){
-                int temp = nums[left];
-                nums[left] = nums[right];
-                nums[right] = temp;
+            while(odd < n && nums[odd] % 2 != 0){
+                odd += 2;
+            }
+            
+            if(even < n && odd < n){
+                int temp = nums[even];
+                nums[even] = nums[odd];
+                nums[odd] = temp;
             }
         }
+
         return nums;
     }
 }
