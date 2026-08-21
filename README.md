@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Adarsh8763/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarsh8763/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh8763/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Adarsh8763/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh8763/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh8763/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
