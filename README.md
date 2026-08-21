@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Adarsh8763/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh8763/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Adarsh8763/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1480-running-sum-of-1d-array](https://github.com/Adarsh8763/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh8763/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh8763/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Adarsh8763/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh8763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adarsh8763/Leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Adarsh8763/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
