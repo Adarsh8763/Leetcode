@@ -4,16 +4,17 @@ class Solution {
 
         if(n < 3) return false;
 
-        int peakElem = 0; 
         int i = 0;
-
         while(i < n-1 && arr[i] < arr[i+1]){
             i++;
         }
+
         if(i == n-1 || i == 0) return false;
+
         while(i < n-1 && arr[i] > arr[i+1]){
             i++;
         }
+        
         if(i == n-1) return true;
 
         return false;
