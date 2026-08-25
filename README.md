@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh8763/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/Adarsh8763/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh8763/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh8763/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh8763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh8763/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
