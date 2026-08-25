@@ -3,7 +3,8 @@ class Solution {
         Set<Integer> set = new HashSet<>();
 
         for(int i=0; i<nums.length; i++){
-            set.add(nums[i]);
+            if(nums[i] % k == 0)
+                set.add(nums[i]);
         }
 
         int multiple = k;
