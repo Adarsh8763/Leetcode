@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adarsh8763/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Adarsh8763/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adarsh8763/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh8763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh8763/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Adarsh8763/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Adarsh8763/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Adarsh8763/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adarsh8763/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adarsh8763/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh8763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Adarsh8763/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Adarsh8763/Leetcode/tree/master/0525-contiguous-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Adarsh8763/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Adarsh8763/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adarsh8763/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adarsh8763/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarsh8763/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Adarsh8763/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Adarsh8763/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adarsh8763/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Adarsh8763/Leetcode/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Adarsh8763/Leetcode/tree/master/0130-surrounded-regions) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adarsh8763/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
