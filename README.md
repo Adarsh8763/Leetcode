@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Adarsh8763/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Adarsh8763/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Adarsh8763/Leetcode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Adarsh8763/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Adarsh8763/Leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh8763/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh8763/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/Adarsh8763/Leetcode/tree/master/0495-teemo-attacking) |
+| [0867-transpose-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh8763/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
