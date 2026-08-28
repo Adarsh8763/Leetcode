@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Adarsh8763/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh8763/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Adarsh8763/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh8763/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Adarsh8763/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh8763/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh8763/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Adarsh8763/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Adarsh8763/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh8763/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0867-transpose-matrix) |
@@ -330,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Adarsh8763/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Adarsh8763/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 ## Randomized
 |  |
