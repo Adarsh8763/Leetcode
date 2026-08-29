@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarsh8763/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adarsh8763/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Adarsh8763/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh8763/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Adarsh8763/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adarsh8763/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarsh8763/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adarsh8763/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Adarsh8763/Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Adarsh8763/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Adarsh8763/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adarsh8763/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh8763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Adarsh8763/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Adarsh8763/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Adarsh8763/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Adarsh8763/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Adarsh8763/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
