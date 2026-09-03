@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Adarsh8763/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh8763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Adarsh8763/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh8763/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh8763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Adarsh8763/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Adarsh8763/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
