@@ -1,7 +1,7 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         HashSet<Integer> set = new HashSet<>();
-        List<Integer> list = new ArrayList<>();
+        HashSet<Integer> ansSet = new HashSet<>();
 
         for(int num1 : nums1){
             set.add(num1);
@@ -9,25 +9,15 @@ class Solution {
 
         for(int num2 : nums2){
             if(set.contains(num2)){
-                list.add(num2);
+                ansSet.add(num2);
             }
         }
         
-        set.clear();
-
-        for(int val : list){
-            set.add(val);
-        }
-
-        list.clear();
-
-        for(int val : set){
-            list.add(val);
-        }
-
-        int[] res = new int[list.size()];
-        for(int i=0; i<list.size(); i++){
-            res[i] = list.get(i);
+        int[] res = new int[ansSet.size()];
+        int i = 0;
+        for(int val : ansSet){
+            res[i] = val;
+            i++;
         }
 
         return res;
