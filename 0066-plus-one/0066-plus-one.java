@@ -1,38 +1,57 @@
 class Solution {
     public int[] plusOne(int[] digits) {
+
+        // ===== My approach ======
+        // int n = digits.length;
+
+        // if(digits[n-1] != 9){
+        //     digits[n-1]++;
+        //     return digits;
+        // }
+        // boolean willExceed = false;
+        // for(int i=n-1; i>=0; i--){
+        //     if(digits[i] == 9){
+        //         willExceed = true;
+        //     }
+        //     else{
+        //         willExceed = false;
+        //         break;
+        //     }
+        // }
+
+        // if(willExceed == false){
+        //     for(int i=n-1; i>=0; i--){
+        //         if(digits[i] == 9){
+        //             digits[i] = 0;
+        //         }
+        //         else{
+        //             digits[i]++;
+        //             break;
+        //         }
+        //     }
+        //     return digits;
+        // }
+
+        // int[] newNum = new int[n+1];
+        // newNum[0] = 1;
+
+        // return newNum;
+
+
+        // ===== Std appraoch ======
         int n = digits.length;
 
-        if(digits[n-1] != 9){
-            digits[n-1] += 1;
-            return digits;
-        }
-        boolean willExceed = false;
         for(int i=n-1; i>=0; i--){
-            if(digits[i] == 9){
-                willExceed = true;
+            if(digits[i] < 9){
+                digits[i]++;
+                return digits;
             }
-            else{
-                willExceed = false;
-                break;
-            }
+
+            digits[i] = 0;
         }
 
-        if(willExceed == false){
-            for(int i=n-1; i>=0; i--){
-                if(digits[i] == 9){
-                    digits[i] = 0;
-                }
-                else{
-                    digits[i]++;
-                    break;
-                }
-            }
-            return digits;
-        }
-
-        int[] newNum = new int[n+1];
-        newNum[0] = 1;
-
-        return newNum;
+        int[] newDigits = new int[n+1];
+        newDigits[0] = 1;
+        return newDigits;
     }
 }
