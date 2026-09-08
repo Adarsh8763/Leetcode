@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Adarsh8763/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adarsh8763/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Adarsh8763/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh8763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh8763/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Adarsh8763/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Adarsh8763/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Adarsh8763/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Adarsh8763/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarsh8763/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Adarsh8763/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Adarsh8763/Leetcode/tree/master/0231-power-of-two) |
