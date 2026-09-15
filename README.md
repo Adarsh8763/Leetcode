@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adarsh8763/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Adarsh8763/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh8763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Adarsh8763/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Adarsh8763/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarsh8763/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Adarsh8763/Leetcode/tree/master/0724-find-pivot-index) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Adarsh8763/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh8763/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Adarsh8763/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Adarsh8763/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Adarsh8763/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Adarsh8763/Leetcode/tree/master/0901-online-stock-span) |
 ## Greedy
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Adarsh8763/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Adarsh8763/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Adarsh8763/Leetcode/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/Adarsh8763/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Adarsh8763/Leetcode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh8763/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh8763/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
