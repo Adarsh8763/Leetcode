@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Adarsh8763/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/Adarsh8763/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Adarsh8763/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh8763/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh8763/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/Adarsh8763/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Adarsh8763/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Adarsh8763/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh8763/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh8763/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Adarsh8763/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adarsh8763/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adarsh8763/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh8763/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Adarsh8763/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Adarsh8763/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adarsh8763/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adarsh8763/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Adarsh8763/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh8763/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh8763/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
