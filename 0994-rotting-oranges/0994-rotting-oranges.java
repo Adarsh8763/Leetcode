@@ -38,13 +38,18 @@ class Solution {
                     }
                     q.offer(new int[]{nr, nc});
                     grid[nr][nc] = 2;
+
+                    freshOrg--;
+                    if(freshOrg == 0){
+                        return time+1;
+                    }
                 }
             }
             time++;
-            freshOrg -= q.size();
-            if(freshOrg == 0){
-                return time;
-            }
+            // freshOrg -= q.size();
+            // if(freshOrg == 0){
+            //     return time;
+            // }
         }
         return -1;
     }
