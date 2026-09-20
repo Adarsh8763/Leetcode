@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Adarsh8763/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh8763/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Adarsh8763/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Adarsh8763/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1512-number-of-good-pairs](https://github.com/Adarsh8763/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh8763/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Adarsh8763/Leetcode/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Adarsh8763/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Adarsh8763/Leetcode/tree/master/0994-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Adarsh8763/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Adarsh8763/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Randomized
 |  |
 | ------- |
@@ -459,4 +462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Adarsh8763/Leetcode/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Adarsh8763/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Adarsh8763/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
