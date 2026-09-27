@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Adarsh8763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh8763/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Adarsh8763/Leetcode/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adarsh8763/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Adarsh8763/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Data Stream
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adarsh8763/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Adarsh8763/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Adarsh8763/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adarsh8763/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Adarsh8763/Leetcode/tree/master/0994-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Adarsh8763/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Adarsh8763/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Adarsh8763/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Adarsh8763/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Adarsh8763/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1791-find-center-of-star-graph](https://github.com/Adarsh8763/Leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Adarsh8763/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
