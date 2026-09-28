@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh8763/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adarsh8763/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh8763/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Adarsh8763/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh8763/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh8763/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh8763/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Adarsh8763/Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh8763/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh8763/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Adarsh8763/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh8763/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/Adarsh8763/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1791-find-center-of-star-graph](https://github.com/Adarsh8763/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Adarsh8763/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Adarsh8763/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Adarsh8763/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Adarsh8763/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
