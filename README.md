@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adarsh8763/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Adarsh8763/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Adarsh8763/Leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/Adarsh8763/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Adarsh8763/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Adarsh8763/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Adarsh8763/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adarsh8763/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Adarsh8763/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Adarsh8763/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Adarsh8763/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adarsh8763/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adarsh8763/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Adarsh8763/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Adarsh8763/Leetcode/tree/master/0994-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Adarsh8763/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Adarsh8763/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Adarsh8763/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Adarsh8763/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Adarsh8763/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Adarsh8763/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Adarsh8763/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Adarsh8763/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Dijkstra's Algorithm
 |  |
@@ -525,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh8763/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Adarsh8763/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
