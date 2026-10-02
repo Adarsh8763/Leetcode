@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Adarsh8763/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Adarsh8763/Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh8763/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Adarsh8763/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adarsh8763/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh8763/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adarsh8763/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Adarsh8763/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarsh8763/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Adarsh8763/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Adarsh8763/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Adarsh8763/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Prefix Sum
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adarsh8763/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh8763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh8763/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Adarsh8763/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adarsh8763/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Adarsh8763/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Monotonic Stack
@@ -535,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Adarsh8763/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Adarsh8763/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
