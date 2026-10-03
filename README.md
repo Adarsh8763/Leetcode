@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adarsh8763/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Adarsh8763/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Adarsh8763/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Adarsh8763/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarsh8763/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Adarsh8763/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Adarsh8763/Leetcode/tree/master/0231-power-of-two) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adarsh8763/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Adarsh8763/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Adarsh8763/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh8763/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh8763/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adarsh8763/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Adarsh8763/Leetcode/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
