@@ -1,41 +1,31 @@
-class Solution {
-    //===== Recursion =======
+//===== Recursion =======
+// class Solution {
     // public int fib(int n) {
     //     if(n <= 1) return n;
 
     //     return fib(n-2) + fib(n-1);
     // }
+// }
 
-
-    //===== Memoization with SC=O(n) =======
-    // public int fib(int n) {
-    //     if(n <= 1) return n;
-    //     int[] memoArr = new int[n+1];
-
-    //     memoArr[0] = 0;
-    //     memoArr[1] = 1;
-
-    //     for(int i=2; i<=n; i++){
-    //         memoArr[i] = memoArr[i-2] + memoArr[i-1];
-    //     } 
-
-    //     return memoArr[n];
-    // }
-
-    //===== Memoization with SC=O(1) =======
+class Solution {
     public int fib(int n) {
-        if(n <= 1) return n;
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
 
-        int num1 = 0;
-        int num2 = 1;
-        int res = 1;
+        return recur(n, dp);
+    }
+    private int recur(int n, int[] dp){
+        // Base case
+        if(n <= 1){
+            dp[n] = n;
+            return dp[n];
+        }
 
-        for(int i=2; i<=n; i++){
-            res = num1 + num2;
-            num1 = num2;
-            num2 = res;
-        } 
+        if(dp[n] != -1){
+            return dp[n];
+        }
 
-        return res;
+        dp[n] = fib(n-1) + fib(n-2);
+        return dp[n];
     }
 }
