@@ -74,37 +74,76 @@
 
 
 // ========= Tabulation ==========
+// class Solution {
+//     public int coinChange(int[] coins, int amount) {
+//         int n = coins.length;
+//         int[][] dp = new int[n][amount+1];
+
+//         for(int i=0; i<n; i++){
+//             dp[i][0] = 0;
+//         }
+
+//         for(int j=0; j<amount+1; j++){
+//             if(j % coins[0] == 0){
+//                 dp[0][j] = j/coins[0];
+//             }
+//             else{
+//                 dp[0][j] = (int)1e9;
+//             }
+//         }
+
+//         for(int i=1; i<n; i++){
+//             for(int j=1; j<amount+1; j++){
+//                 int pick = (int)1e9;
+//                 if(coins[i] <= j){
+//                     pick = 1 + dp[i][j-coins[i]];
+//                 }
+
+//                 int noPick = 0 + dp[i-1][j];
+//                 dp[i][j] = Math.min(pick, noPick);
+//             }
+//         }
+        
+//         int res = dp[n-1][amount];
+//         if(res == (int)1e9){
+//             return -1;
+//         }
+//         return res;
+//     }
+// }
+
+
+// ========= Tabulation using space optimization =========
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        int[][] dp = new int[n][amount+1];
-
-        for(int i=0; i<n; i++){
-            dp[i][0] = 0;
-        }
+        int[] prev = new int[amount+1];
 
         for(int j=0; j<amount+1; j++){
             if(j % coins[0] == 0){
-                dp[0][j] = j/coins[0];
+                prev[j] = j/coins[0];
             }
             else{
-                dp[0][j] = (int)1e9;
+                prev[j] = (int)1e9;
             }
         }
 
         for(int i=1; i<n; i++){
+            int[] curr = new int[amount+1];
+            curr[0] = 0;
             for(int j=1; j<amount+1; j++){
                 int pick = (int)1e9;
                 if(coins[i] <= j){
-                    pick = 1 + dp[i][j-coins[i]];
+                    pick = 1 + curr[j-coins[i]];
                 }
 
-                int noPick = 0 + dp[i-1][j];
-                dp[i][j] = Math.min(pick, noPick);
+                int noPick = 0 + prev[j];
+                curr[j] = Math.min(pick, noPick);
             }
+            prev = curr;
         }
         
-        int res = dp[n-1][amount];
+        int res = prev[amount];
         if(res == (int)1e9){
             return -1;
         }
