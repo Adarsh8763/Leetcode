@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Adarsh8763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh8763/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Adarsh8763/Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adarsh8763/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adarsh8763/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Adarsh8763/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh8763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Adarsh8763/Leetcode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Adarsh8763/Leetcode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Adarsh8763/Leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/Adarsh8763/Leetcode/tree/master/0771-jewels-and-stones) |
