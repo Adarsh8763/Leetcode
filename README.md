@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Adarsh8763/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adarsh8763/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1092-shortest-common-supersequence](https://github.com/Adarsh8763/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adarsh8763/Leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/Adarsh8763/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Adarsh8763/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1092-shortest-common-supersequence](https://github.com/Adarsh8763/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/Adarsh8763/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh8763/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -582,5 +584,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Adarsh8763/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
