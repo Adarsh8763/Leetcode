@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Adarsh8763/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adarsh8763/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Adarsh8763/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Adarsh8763/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Adarsh8763/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Adarsh8763/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarsh8763/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adarsh8763/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Adarsh8763/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Adarsh8763/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adarsh8763/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh8763/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -598,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Adarsh8763/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adarsh8763/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
