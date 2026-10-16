@@ -43,10 +43,6 @@ class Solution {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
 
-        // if(obstacleGrid[m-1][n-1] == 1){
-        //     return 0;
-        // }
-
         int[] prev = new int[n+1];
 
         for(int j=0; j<=n; j++){
