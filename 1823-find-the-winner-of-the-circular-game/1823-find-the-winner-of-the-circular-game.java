@@ -42,17 +42,32 @@
 
 
 // ========== Using Top-Down Recursion TC-O(n) SC-(n) ============
+// class Solution {
+//     public int findTheWinner(int n, int k) {
+//         // Since, friends numbering are from 1 and we are passing index which is form inndex 0
+//         return recur(n, k)+1;
+//     }
+//     private int recur(int n, int k){
+//         if(n == 1){
+//             return 0;
+//         }
+
+//         return (recur(n-1, k) + k) % n;
+//     }
+// }
+
+
+// ========== Using Bottom-Up Recursion TC-O(n) SC-(1) ============
 class Solution {
     public int findTheWinner(int n, int k) {
-        // Since, friends numbering are from 1 and we are passing index which is form inndex 0
-        return recur(n, k)+1;
-    }
-    private int recur(int n, int k){
-        if(n == 1){
-            return 0;
+        // At bottom index is 0
+        int ans = 0;
+
+        for(int i=2; i<=n; i++){
+            ans = (ans + k) % i;
         }
 
-        return (recur(n-1, k) + k) % n;
+        return ans+1;
     }
 }
 
