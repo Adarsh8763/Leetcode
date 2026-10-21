@@ -12,17 +12,14 @@ class Solution {
             return;
         }
 
-        // if(openCount < closeCount){
-        //     continue;
-        // }
-        if(openCount != n){
+        if(openCount < n){
             curr.append('(');
             openCount++;
             backtrack(n, openCount, closeCount, curr, res);
             openCount--;
             curr.deleteCharAt(curr.length()-1);
         }
-        if(openCount > closeCount && closeCount != n){
+        if(openCount > closeCount && closeCount < n){
             curr.append(')');
             closeCount++;
             backtrack(n, openCount, closeCount, curr, res);
