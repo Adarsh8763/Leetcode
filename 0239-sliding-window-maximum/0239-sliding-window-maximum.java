@@ -20,7 +20,7 @@ class Solution {
         //Process the remaining elems
         for(int i=k; i<n; i++){
             //Remove the elem which has slid out of window
-            if(deque.peekFirst() < i-k+1){
+            if(deque.peekFirst() == i-k){
                 deque.pollFirst();
             }
 
