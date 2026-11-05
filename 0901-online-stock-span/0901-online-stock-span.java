@@ -15,12 +15,22 @@ class StockSpanner {
             stack.pop();
         }
         
-        int idxOfPrevLarge = stack.isEmpty() == true ? -1 : stack.peek();
-        int noOfPrevSmaller = currIdx - idxOfPrevLarge;
+        // -1 is when no prev elem is greater 
+        // int idxOfPrevLarge = stack.isEmpty() == true ? -1 : stack.peek();
+        // int noOfPrevSmaller = currIdx - idxOfPrevLarge;
 
+        // stack.push(currIdx);
+
+        // return noOfPrevSmaller;
+
+
+        if(!stack.isEmpty()){
+            int ans = currIdx - stack.peek();
+            stack.push(currIdx);
+            return ans; 
+        }
         stack.push(currIdx);
-
-        return noOfPrevSmaller;
+        return 1;
 
     }
 }
