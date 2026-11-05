@@ -22,20 +22,40 @@ class Solution {
             fast = fast.next.next;
         }
         fast = head;
-        prev.next = null;
+        prev.next = null;  //for seperating the first half
         slow = reverseList(slow);
 
+        boolean isGrp1 = true; 
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+        //Here first half will always be smaller or equal to the second half
         while(fast != null && slow != null){
-            ListNode next1 = fast.next;
-            ListNode next2 = slow.next;
+            // ListNode next1 = fast.next;
+            // ListNode next2 = slow.next;
 
-            fast.next = slow;
-            fast = next1;
-            if(fast != null){
-                slow.next = fast;
+            // fast.next = slow;
+            // fast = next1;
+            // if(fast != null){       //handles the case where the first half finishes before the second half.
+            //     slow.next = fast;   
+            // }
+            // slow = next2;
+
+            
+
+            if(isGrp1 == true){
+                curr.next = fast;
+                curr = curr.next;
+                fast = fast.next;
+                isGrp1 = false;
             }
-            slow = next2;
+            else{
+                curr.next = slow;
+                curr = curr.next;
+                slow = slow.next;
+                isGrp1 = true;
+            }
         }
+        curr.next = slow;
     }
     private ListNode reverseList(ListNode head){
         ListNode curr = head;
