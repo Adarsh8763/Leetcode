@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adarsh8763/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh8763/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh8763/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/Adarsh8763/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh8763/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh8763/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh8763/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh8763/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/Adarsh8763/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3693-climbing-stairs-ii](https://github.com/Adarsh8763/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
