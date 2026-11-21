@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Adarsh8763/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh8763/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh8763/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/Adarsh8763/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/Adarsh8763/Leetcode/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Adarsh8763/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Adarsh8763/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
