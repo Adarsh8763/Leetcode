@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh8763/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/Adarsh8763/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Adarsh8763/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/Adarsh8763/Leetcode/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Adarsh8763/Leetcode/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adarsh8763/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Adarsh8763/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adarsh8763/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarsh8763/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Adarsh8763/Leetcode/tree/master/0338-counting-bits) |
+| [1720-decode-xored-array](https://github.com/Adarsh8763/Leetcode/tree/master/1720-decode-xored-array) |
 ## Sorting
 |  |
 | ------- |
